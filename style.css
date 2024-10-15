@@ -10,7 +10,7 @@ html{
     scroll-behavior: smooth;
 }
 body{
-background-image: url('bg.jpg');
+  background-color: aliceblue;
   background-repeat: no-repeat;
   margin-left:50px;
 }
